@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MithunGulhane
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Java,HTML, CSS
+- 🌱 I’m currently learning Java,HTML, CSS, Bootstrap, JavaScript
 - 📫 reach me @ mithun.gulhane@gmail.com
 
 <!---
